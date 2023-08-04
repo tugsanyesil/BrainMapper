@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainMapper", "Brain\BrainMapper.csproj", "{2C1A6AA0-F01E-407B-85AB-9BF086DC4E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1A6AA0-F01E-407B-85AB-9BF086DC4E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1A6AA0-F01E-407B-85AB-9BF086DC4E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1A6AA0-F01E-407B-85AB-9BF086DC4E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1A6AA0-F01E-407B-85AB-9BF086DC4E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4EDE8A9-62B5-43D3-8A9D-1BA1E4BD30FC}
+	EndGlobalSection
+EndGlobal
